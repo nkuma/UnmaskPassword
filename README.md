@@ -12,7 +12,8 @@ Google Chrome
 Click ![visibility](https://raw.githubusercontent.com/google/material-design-icons/master/action/1x_ios/ic_visibility_black_24dp.png) or ![visibility_off]( https://raw.githubusercontent.com/google/material-design-icons/master/action/1x_ios/ic_visibility_off_black_24dp.png) icon
 
 ## Install
-[Chrome Web Store]()
+[Chrome Web Store](https://chrome.google.com/webstore/detail/unmask-password/pmmeddaccflimcipblojlnfandenhicb)
+Now,Only test users.
 
 ## Licence
 [MIT](http://en.wikipedia.org/wiki/MIT_License)
