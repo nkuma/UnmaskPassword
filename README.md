@@ -13,7 +13,6 @@ Click ![visibility](https://raw.githubusercontent.com/google/material-design-ico
 
 ## Install
 [Chrome Web Store](https://chrome.google.com/webstore/detail/unmask-password/pmmeddaccflimcipblojlnfandenhicb)
-Now,Only test users.
 
 ## Licence
 [MIT](http://en.wikipedia.org/wiki/MIT_License)
