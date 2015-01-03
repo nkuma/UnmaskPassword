@@ -4,7 +4,7 @@ Unmask Password
 ## Description
 show/hide Password.
 ## Demo
-
+![demo](https://raw.githubusercontent.com/nkuma/nkuma.github.io/master/img/demo_unmask_password.gif)
 ## Requirement
 Google Chrome
 
