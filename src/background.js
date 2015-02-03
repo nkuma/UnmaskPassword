@@ -45,18 +45,28 @@ var showHidePassword = function(tabId){
 };
 
 var setBrowserActionIcon = function(tabId){
+	chrome.browserAction.setIcon({path:'img/icon_48.png'});
 	if(window.localStorage.getItem("showPassword")=="SHOW"){
-		chrome.browserAction.setIcon({path:'img/ic_visibility_black_48dp.png'});
+		//chrome.browserAction.setIcon({path:'img/ic_visibility_black_48dp.png'});
+		chrome.browserAction.setBadgeText({text:' ON '});
+		chrome.browserAction.setBadgeBackgroundColor({color:[255, 0, 0, 100]});
 	}else{
-		chrome.browserAction.setIcon({path:'img/ic_visibility_off_black_48dp.png'});
+		//chrome.browserAction.setIcon({path:'img/ic_visibility_off_black_48dp.png'});
+		chrome.browserAction.setBadgeText({text:'OFF'});
+		chrome.browserAction.setBadgeBackgroundColor({color:[0, 0, 255, 100]});
 	}
 };
 
 var turnoverBrowserActionIcon = function(tabId){
+
 	if(window.localStorage.getItem("showPassword")=="SHOW"){
-		chrome.browserAction.setIcon({path:'img/ic_visibility_off_black_48dp.png'});
+		//chrome.browserAction.setIcon({path:'img/ic_visibility_off_black_48dp.png'});
+		chrome.browserAction.setBadgeText({text:'OFF'});
+		chrome.browserAction.setBadgeBackgroundColor({color:[0, 0, 255, 100]});
 	}else{
-		chrome.browserAction.setIcon({path:'img/ic_visibility_black_48dp.png'});
+		//chrome.browserAction.setIcon({path:'img/ic_visibility_black_48dp.png'});
+		chrome.browserAction.setBadgeText({text:' ON '});
+		chrome.browserAction.setBadgeBackgroundColor({color:[255, 0, 0, 100]});
 	}
 };
 
