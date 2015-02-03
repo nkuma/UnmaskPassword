@@ -1,8 +1,8 @@
 {
-  "appName": {
-    "message": "Unmask Password"
-  },
-  "appDesc": {
-    "message": "show/hide Password."
-  }
+   "appDesc": {
+      "message": "show/hide Password."
+   },
+   "appName": {
+      "message": "Unmask Password"
+   }
 }
