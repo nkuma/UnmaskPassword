@@ -9,7 +9,7 @@ show/hide Password.
 Google Chrome
 
 ## Usage
-Click ![visibility](https://raw.githubusercontent.com/google/material-design-icons/master/action/1x_ios/ic_visibility_black_24dp.png) or ![visibility_off]( https://raw.githubusercontent.com/google/material-design-icons/master/action/1x_ios/ic_visibility_off_black_24dp.png) icon
+Click ![visibility](https://raw.githubusercontent.com/nkuma/nkuma.github.io/master/img/on.png) or ![visibility_off](https://raw.githubusercontent.com/nkuma/nkuma.github.io/master/img/off.png) icon
 
 ## Install
 [Chrome Web Store](https://chrome.google.com/webstore/detail/unmask-password/pmmeddaccflimcipblojlnfandenhicb)
